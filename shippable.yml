@@ -23,7 +23,7 @@ services:
   - elasticsearch 
  
  # - selenium
-  - sqllite 
+  - sqlite 
  
 
 
